@@ -50,7 +50,5 @@ The project demonstrates that machine learning can effectively predict loan appl
 ## References
 
 - [View Project PPT](https://drive.google.com/file/d/1_V6V9RrHQmYrvkUvE1_X1r-Srh2KXFEb/view?usp=sharing)
--
-
 ---
 *Project by Saahibah Baig (CT20234251692)*
